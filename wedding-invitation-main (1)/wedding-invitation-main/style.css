@@ -723,7 +723,7 @@ p {
 .scroll-down-indicator {
     position: absolute;
     left: 50%;
-    bottom: 15px;
+    bottom: 5px;
     transform: translateX(-50%);
     z-index: 20;
 
