@@ -746,6 +746,8 @@ p {
     border: 2px solid var(--color-gold);
     border-radius: 12px;
     position: relative;
+
+    transform: translate(-6px, 12px);
 }
 
 .mouse-icon .wheel {
